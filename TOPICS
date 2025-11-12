@@ -1,0 +1,115 @@
+Module 1: Business Intelligence (BI) Fundamentals
+
+Basics of Business Intelligence
+
+Information Gathering and Decision Making
+
+Managing BI and BI User Segmentation
+
+Gathering BI Requirements
+
+Content and Knowledge Management
+
+Strategic Approach to BI
+
+Module 2: Information Visualization & Data Representation
+
+Significance of Visual Analytics
+
+Information Visualization Concepts
+
+Data Representation Techniques
+
+Data Collection and Binding
+
+Structured vs. Unstructured Data
+
+Module 3: Data Analysis Using MS Excel
+
+Excel Functions and Formulas
+
+Charts in Excel
+
+Pivot Tables and Lookups (VLOOKUP, HLOOKUP, etc.)
+
+Data Analysis Toolpak
+
+Descriptive Summaries
+
+Correlation
+
+Regression
+
+Module 4: Data Analytics Life Cycle
+
+Discovery Phase
+
+Data Preparation
+
+Model Planning and Model Building
+
+Implementation and Quality Assurance
+
+Documentation and Management Approval
+
+Installation, Acceptance, and Operation
+
+Module 5: Data Analytics Tools & Tableau
+
+Introduction to Tableau
+
+Intelligent Data Analysis
+
+Nature of Data
+
+Analytics Processes and Tools
+
+Analysis vs. Reporting
+
+Modern Data Analytic Tools
+
+Data Sources in Tableau
+
+Module 6: Visualization Design & Techniques
+
+Visualization Algorithms
+
+Visual Encodings (color, size, shape, lines, scaling, annotation)
+
+Taxonomy of Data Visualization
+
+Comparison Charts (Bar, Box, Histogram, Gantt, Bullet, etc.)
+
+Tables (Text, Highlight)
+
+Hierarchies & Relationships (Pie, Stacked Bar, Treemap)
+
+Changes Over Time (Line, Dual Line, Area)
+
+Connections & Relationships (Scatter, Maps, Heatmaps, Bubble)
+
+Module 7: Advanced Visualization & Dashboarding
+
+Choosing Appropriate Visuals
+
+Applying Calculations using Functions & Statistics
+
+Numeric Calculations
+
+String Calculations
+
+Date Calculations
+
+LOD (Level of Detail) Expressions
+
+Data Sorting and Filtering
+
+Interactive Visualization
+
+Event Listeners / Callbacks
+
+Data Updation
+
+Visual Updation
+
+Dashboard Design
